@@ -1,0 +1,16 @@
+{
+  "name": "vi-humanize",
+  "owner": {
+    "name": "Duong Nguyen Trieu An"
+  },
+  "metadata": {
+    "description": "Natural Vietnamese writing and editing skill."
+  },
+  "plugins": [
+    {
+      "name": "vi-humanize",
+      "source": ".",
+      "description": "Write and edit natural Vietnamese for the intended reader."
+    }
+  ]
+}

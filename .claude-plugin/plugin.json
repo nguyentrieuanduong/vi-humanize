@@ -1,0 +1,11 @@
+{
+  "name": "vi-humanize",
+  "version": "0.1.0",
+  "description": "Write and edit natural Vietnamese for the intended reader while preserving meaning and the author's voice; removes formulaic, machine-sounding, and translated-sounding patterns.",
+  "author": {
+    "name": "Duong Nguyen Trieu An"
+  },
+  "repository": "https://github.com/nguyentrieuanduong/vi-humanize",
+  "license": "MIT",
+  "keywords": ["vietnamese", "writing", "editing", "humanize"]
+}

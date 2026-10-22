@@ -1,0 +1,24 @@
+{
+  "name": "vi-humanize",
+  "version": "0.1.0",
+  "description": "Write and edit natural Vietnamese for the intended reader while preserving meaning and the author's voice; removes formulaic, machine-sounding, and translated-sounding patterns.",
+  "author": {
+    "name": "Duong Nguyen Trieu An"
+  },
+  "license": "MIT",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "vi-humanize",
+    "shortDescription": "Natural Vietnamese writing and editing.",
+    "longDescription": "Draft, edit, review, or translate Vietnamese text so it reads naturally for its reader: correct forms of address, register by genre, no translated-sounding grammar, and no invented facts or voice.",
+    "developerName": "Duong Nguyen Trieu An",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Biên tập đoạn văn này cho tự nhiên, giữ nguyên ý."
+    ]
+  }
+}

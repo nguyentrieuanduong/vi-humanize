@@ -1,0 +1,20 @@
+{
+  "name": "vi-humanize",
+  "interface": {
+    "displayName": "vi-humanize"
+  },
+  "plugins": [
+    {
+      "name": "vi-humanize",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
