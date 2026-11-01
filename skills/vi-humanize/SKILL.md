@@ -148,6 +148,5 @@ Các nguyên tắc về người đọc, giữ nghĩa, mật độ dấu hiệu 
 | [patterns.md](references/patterns.md) | Cần xem kỹ một dấu hiệu: ví dụ trước/sau, cách sửa, khi nào không sửa |
 | [giong-van.md](references/giong-van.md) | Chọn giọng và xưng hô, hoặc viết theo giọng một người cụ thể |
 | [keep-signals.md](references/keep-signals.md) | Phân vân có nên sửa không; muốn biết cái gì cần giữ |
-| [sources.md](references/sources.md) | Cần biết quy tắc lấy từ đâu |
 
 Không cần đọc hết các tệp này mới dùng được skill. Phần trên đủ cho phần lớn việc hằng ngày.

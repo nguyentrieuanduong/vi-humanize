@@ -119,7 +119,7 @@ MIT-licensed:
 | [conorbronsdon/avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) | MIT | Capping edit passes; not inserting fake "human signals" |
 | [Wikipedia: Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) | CC BY-SA 4.0 | Origin of most of the sign catalogue (ideas only) |
 
-- [`skills/vi-humanize/references/sources.md`](skills/vi-humanize/references/sources.md)
+- [`docs/sources.md`](docs/sources.md)
   (Vietnamese) has the full breakdown, where this skill deliberately departs
   from its sources, how far its rules have been validated, and the upstream
   commits checked.

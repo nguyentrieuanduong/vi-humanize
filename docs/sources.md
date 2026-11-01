@@ -1,6 +1,6 @@
 # Nguồn
 
-Skill này chưng cất từ các dự án dưới đây. Các dự án GitHub đều dùng giấy phép MIT; trang Wikipedia dùng CC BY-SA 4.0 và chỉ được lấy ý. Một số ví dụ trong [patterns.md](patterns.md) và [keep-signals.md](keep-signals.md) được chuyển thể từ các nguồn này, có sửa lại để bản "sau" không thêm dữ kiện. Thông báo bản quyền đầy đủ của từng nguồn nằm trong `THIRD-PARTY-NOTICES.md` ở gốc kho mã.
+Skill này chưng cất từ các dự án dưới đây. Các dự án GitHub đều dùng giấy phép MIT; trang Wikipedia dùng CC BY-SA 4.0 và chỉ được lấy ý. Một số ví dụ trong [patterns.md](../skills/vi-humanize/references/patterns.md) và [keep-signals.md](../skills/vi-humanize/references/keep-signals.md) được chuyển thể từ các nguồn này, có sửa lại để bản "sau" không thêm dữ kiện. Thông báo bản quyền đầy đủ của từng nguồn nằm trong [THIRD-PARTY-NOTICES.md](../THIRD-PARTY-NOTICES.md) ở gốc kho mã.
 
 | Dự án | Lấy gì |
 |---|---|

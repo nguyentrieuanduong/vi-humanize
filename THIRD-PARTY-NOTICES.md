@@ -8,7 +8,7 @@ MIT-licensed; its copyright notices are reproduced verbatim from its
 to each of them.
 
 What each project contributed is described in
-[`skills/vi-humanize/references/sources.md`](skills/vi-humanize/references/sources.md).
+[`docs/sources.md`](docs/sources.md).
 
 ## blader/humanizer
 
